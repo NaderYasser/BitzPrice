@@ -1,5 +1,5 @@
 <p align="center">
-<h3 align="center">Simple NextJS PROJECT.</h3></p>
+<h3 align="center">Simple NextJS Project.</h3></p>
 </p>
 
 ## Contents
@@ -14,7 +14,7 @@
 Clone repo:
 
 ```sh
-git clone https://github.com/ooade/BitzPrice.git
+git clone https://github.com/NaderYasser/BitzPrice.git
 cd BitzPrice
 ```
 
