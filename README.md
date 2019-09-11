@@ -60,12 +60,6 @@ npm run build
 ### Deploy to Now
 
 ```sh
-now dev
-```
-
-For production, update alias in the now.json ie `"alias": "nextss-yourname.now.sh",`
-
-```sh
 now
 ```
 
