@@ -7,7 +7,6 @@
 - [Installation](#installation)
 - [Development Workflow](#development-workflow)
 - [Deployment](#deployment)
-- [Deploy to Netlify](#deploy-to-netlify)
 
 ### Installation
 
